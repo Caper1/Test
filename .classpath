@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/qq聊天数据/1061321925/FileRecv/apache-tomcat-9.0.12/apache-tomcat-9.0.12/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/qq聊天数据/1061321925/FileRecv/apache-tomcat-9.0.12/apache-tomcat-9.0.12/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/qq聊天数据/1061321925/FileRecv/apache-tomcat-9.0.12/apache-tomcat-9.0.12/lib/standard.jar"/>
+	<classpathentry kind="lib" path="D:/qq聊天数据/mysql-connector-java-5.1.40.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
